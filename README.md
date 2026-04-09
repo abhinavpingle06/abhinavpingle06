@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# 📊 GitHub Stats
+# 📜 GitHub Stats
 <p align="center">
   <a href="https://github.com/abhinavpingle06">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhinavpingle06&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="abhinavpingle06's GitHub Stats" />
