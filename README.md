@@ -1,3 +1,24 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Abhinav%20Pingle%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=abhinavpingle06">
+    <img src="https://komarev.com/ghpvc/?username=abhinavpingle06&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhinavpingle06's profile views" />
+  </a>
+</p>
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/abhinavpingle06">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhinavpingle06&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="abhinavpingle06's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=abhinavpingle06&theme=nightowl&hide_border=true&cache_seconds=86400" alt="abhinavpingle06's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavpingle06&theme=nightowl&radius=10" alt="abhinavpingle06's Activity Graph" />
+</p>
+
+
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abhinavpingle06?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
