@@ -26,7 +26,7 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinavpingle06&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinavpingle06&layout=compact&theme=tokyonight)
 
 <!--
 **abhinavpingle06/abhinavpingle06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
