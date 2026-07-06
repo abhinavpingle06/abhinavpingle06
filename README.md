@@ -12,7 +12,7 @@ I'm a full-stack developer passionate about building AI-powered applications, sc
 
 - 🔭 Currently building AI-powered applications with RAG, LangChain, and LLMs
 - 🧠 Exploring Machine Learning, intelligent automation
--⚡ Building scalable full-stack applications using Next.js, FastAPI, Express.js, and cloud technologies-
+- ⚡ Building scalable full-stack applications using Next.js, FastAPI, Express.js, and cloud technologies-
 - ☁️ Interested in cloud infrastructure, Docker, CI/CD, and backend architecture
 - 💼 Open to collaborations, hackathons, and exciting software engineering opportunities
 
