@@ -46,9 +46,9 @@ WILL ADD THIS LATER :)
   </a>
   <img src="https://streak-stats.demolab.com/?user=abhinavpingle06&theme=nightowl&hide_border=true&cache_seconds=86400" alt="abhinavpingle06's GitHub Streak" width="49%" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavpingle06&theme=nightowl&radius=10" alt="abhinavpingle06's Activity Graph" />
-</p>
+</p> -->
 
 ---
 
