@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Abhinav%20Pingle%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Cloud%20Dev%20|%20Designing%20Scalable%20Architecture&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Abhinav%20Pingle%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Cloud%20Dev%20|%20Building%20Scalable%20Systems&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=abhinavpingle06">
@@ -8,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer passionate about building AI-powered applications, scalable backend systems, and modern web experiences.
+I'm an Information Technology student and engineer passionate about building scalable cloud infrastructure, backend systems, and AI-powered applications.
 
-- 🔭 Currently building AI-powered applications with RAG, LangChain, and LLMs
-- 🧠 Exploring Machine Learning, intelligent automation
-- ⚡ Building scalable full-stack applications using Next.js, FastAPI, Express.js, and cloud technologies-
-- ☁️ Interested in cloud infrastructure, Docker, CI/CD, and backend architecture
+- ☁️ Exploring Cloud & DevOps - AWS, Linux, Docker, CI/CD, and Infrastructure Automation
+- 🚀 Building and deploying applications with AWS EC2, S3, ECR, Jenkins, and GitHub Actions
+- 💻 Working across backend and full-stack technologies including Python, FastAPI, Node.js, React, and Next.js
+- 🔭 Currently building & deploying AI-powered applications with RAG, LangChain, and LLMs
 - 💼 Open to collaborations, hackathons, and exciting software engineering opportunities
 
 ---
